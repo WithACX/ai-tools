@@ -1,0 +1,11 @@
+{
+  "name": "a-cx-ai-tools",
+  "owner": {
+    "name": "A-CX"
+  },
+  "metadata": {
+    "description": "Hand-picked skills from A-CX for Claude and Codex, free to use under PolyForm Shield 1.0.0.",
+    "version": "0.1.0"
+  },
+  "plugins": []
+}

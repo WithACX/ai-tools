@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Help and support
+    url: https://github.com/withACX/ai-tools/blob/main/SUPPORT.md
+    about: How to get help, and how to report a security problem privately.
