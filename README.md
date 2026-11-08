@@ -2,7 +2,8 @@
 
 AI Tools is a small, hand-picked set of skills from [A-CX](https://www.a-cx.com)
 for Claude, Codex and ChatGPT. Each skill is free to use under the
-[PolyForm Shield 1.0.0](LICENSE) license.
+[PolyForm Shield 1.0.0](LICENSE) license, which does not allow using it in a
+product that competes with it or with a product A-CX provides using it.
 
 ## Skills
 
@@ -46,8 +47,12 @@ has the details.
 ## License and terms
 
 The skills are free to use under PolyForm Shield 1.0.0, in [LICENSE](LICENSE),
-and the terms of use in [TERMS.md](TERMS.md). The license grants no right to the
-A-CX name or logo.
+which does not allow competing use, and under the terms of use in
+[TERMS.md](TERMS.md). Review what the AI produces and does before you rely on
+it; the terms explain why. The license grants no right to the A-CX name or logo.
+
+Claude is a trademark of Anthropic. Codex and ChatGPT are trademarks of OpenAI.
+A-CX is not affiliated with, sponsored by or endorsed by Anthropic or OpenAI.
 
 ## Help and reporting
 

@@ -17,5 +17,5 @@ in
 
 ## What to expect
 
-A-CX reviews every private report and fixes a confirmed vulnerability in a new
-release. [CHANGELOG.md](CHANGELOG.md) lists each release.
+A-CX aims to review each private report and to fix a confirmed vulnerability
+in a new release, with no promised time. [CHANGELOG.md](CHANGELOG.md) lists each release.
