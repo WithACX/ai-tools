@@ -9,8 +9,6 @@ OpenAI describes these channels in
 [Plugins in ChatGPT and Codex](https://help.openai.com/en/articles/20001256) and
 [Plugins](https://learn.chatgpt.com/docs/plugins).
 
-<!-- surface verification: confirm each channel per plan and app for each release, and add screenshots. -->
-
 ## First: check what the plan offers
 
 | Channel | Where it works | Who can use it |

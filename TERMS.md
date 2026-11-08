@@ -46,6 +46,4 @@ By downloading or using a skill, you accept these terms and the license.
 A skill runs inside an AI product from another company, such as Claude or
 ChatGPT. That product's own terms apply to its use.
 
-The license's "Discontinued Products" section refers to this line:
-
 Licensor Line of Business: AI skills and plugins that draft content in a person's own voice (https://www.a-cx.com)

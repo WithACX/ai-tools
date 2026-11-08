@@ -15,8 +15,6 @@ Skills need code execution. Turn it on first, or the upload fails.
 4. Turn on **Code execution and file creation**. In the newer settings layout
    this switch is called **Create and edit files**.
 
-<!-- screenshot: Settings, Capabilities, with the code execution switch on. Added at surface verification. -->
-
 On a Team or Enterprise plan, an organization owner controls this switch and
 the use of skills. If the switch is missing or gray, see
 [An admin turned skills off](#an-admin-turned-skills-off).
@@ -34,8 +32,6 @@ the use of skills. If the switch is missing or gray, see
 8. Select **Upload a skill**.
 9. Choose the ZIP file saved in step 3.
 10. Check that the skill appears in the skills list with its switch on.
-
-<!-- screenshot: Customize, Skills, the upload dialog. Added at surface verification. -->
 
 To use the skill, describe the task in a chat. Claude loads the skill when the
 task matches it.
@@ -107,4 +103,3 @@ uploads its ZIP in organization settings, and it appears in every member's
 skills list. Anthropic describes both in
 [Use Skills in Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude).
 
-<!-- screenshot: Organization settings, Plugins & skills, Policy tab. Added at surface verification. -->

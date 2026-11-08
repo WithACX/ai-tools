@@ -13,8 +13,6 @@ with Codex in an editor, install it with Codex CLI or the ChatGPT desktop app.
    [Codex CLI](https://learn.chatgpt.com/docs/codex/cli).
 2. Sign in to Codex when it asks.
 
-<!-- minimum version: the verified minimum Codex CLI version is added here at the first release. -->
-
 ## Install
 
 ### Codex CLI
@@ -32,8 +30,6 @@ with Codex in an editor, install it with Codex CLI or the ChatGPT desktop app.
 6. Install it.
 7. Start a new Codex session to use the skill.
 
-<!-- screenshot: the Codex CLI plugin browser on the a-cx-ai-tools tab. Added at surface verification. -->
-
 ### Codex in the ChatGPT desktop app
 
 1. Add the marketplace with Codex CLI, as in step 1 above.
@@ -42,8 +38,6 @@ with Codex in an editor, install it with Codex CLI or the ChatGPT desktop app.
 4. Find the plugin named in the skills table of the [main README](../README.md).
 5. Select the **+** button to install it.
 6. Start a new chat to use the skill.
-
-<!-- surface verification: confirm that a marketplace added with Codex CLI appears in the ChatGPT desktop app, and add a screenshot. -->
 
 ## Update
 

@@ -5,8 +5,6 @@ install a skill from AI Tools: add the AI Tools marketplace, or upload a skill
 ZIP. Both save the skill to the Claude account, so it also works in Claude.ai
 chat with the same account.
 
-<!-- surface verification: confirm both paths below in Cowork for each release, and add screenshots. -->
-
 ## First: what Cowork needs
 
 1. Install the Claude desktop app and sign in.
