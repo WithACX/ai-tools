@@ -1,0 +1,53 @@
+name: Bug report
+description: Report a problem with a skill from AI Tools.
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for the report. Never include passwords, keys or private data.
+        To report a security problem, follow SECURITY.md instead of this form.
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Platform and surface
+      description: The app where the problem happened.
+      options:
+        - Claude.ai on the web
+        - Claude desktop app (chat)
+        - Cowork
+        - Claude Code
+        - Codex CLI
+        - Codex in the ChatGPT desktop app
+        - ChatGPT on the web
+        - ChatGPT desktop app
+        - Other (describe in the steps)
+    validations:
+      required: true
+  - type: input
+    id: skill
+    attributes:
+      label: Skill and version
+      description: The skill name and its version from the skills table or the release.
+      placeholder: skill-name 1.0.0
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps taken
+      description: Each step in order, from the start, so someone else can repeat it.
+      placeholder: |
+        1.
+        2.
+        3.
+    validations:
+      required: true
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened
+      description: What happened, and what was expected instead. Paste any error message in full.
+    validations:
+      required: true
