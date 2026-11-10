@@ -5,7 +5,15 @@
   },
   "metadata": {
     "description": "Hand-picked skills from A-CX for Claude and Codex, free to use under PolyForm Shield 1.0.0, which does not allow competing use.",
-    "version": "0.1.0"
+    "version": "1.0.0"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "my-voice",
+      "source": "./plugins/my-voice",
+      "version": "1.0.0",
+      "category": "Productivity",
+      "homepage": "https://github.com/withACX/ai-tools"
+    }
+  ]
 }

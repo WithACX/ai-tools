@@ -19,6 +19,9 @@ OpenAI describes these channels in
 
 Codex in an editor, through the IDE extension, does not support plugins.
 
+Use the latest version of the ChatGPT desktop app. ChatGPT on the web is always
+the latest version.
+
 ## Install
 
 ### Upload a skill ZIP

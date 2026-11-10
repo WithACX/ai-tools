@@ -8,7 +8,7 @@ the guide for the app in use.
 |---|---|---|---|
 | Claude.ai | The web, and chat in the Claude desktop app | Upload a skill ZIP from the latest release | [claude-ai.md](claude-ai.md) |
 | Claude Code | The terminal | Add the marketplace with one command | [claude-code.md](claude-code.md) |
-| Cowork | The Claude desktop app | Add the marketplace, or upload a skill ZIP | [cowork.md](cowork.md) |
+| Cowork | The Claude desktop app, and the web and mobile when the organization's settings allow it | Add the marketplace, or upload a skill ZIP | [cowork.md](cowork.md) |
 | Codex | Codex CLI, and Codex in the ChatGPT desktop app | Add the marketplace with one command | [codex.md](codex.md) |
 | ChatGPT | The web and the ChatGPT desktop app | The channels OpenAI offers for the plan | [chatgpt.md](chatgpt.md) |
 

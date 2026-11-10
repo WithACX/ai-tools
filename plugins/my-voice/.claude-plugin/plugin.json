@@ -1,0 +1,12 @@
+{
+  "name": "my-voice",
+  "version": "1.0.0",
+  "description": "Build a voice profile from your own writing and draft in your own voice.",
+  "author": {
+    "name": "A-CX"
+  },
+  "homepage": "https://github.com/withACX/ai-tools",
+  "repository": "https://github.com/withACX/ai-tools",
+  "license": "PolyForm-Shield-1.0.0",
+  "keywords": ["writing", "voice", "drafting"]
+}

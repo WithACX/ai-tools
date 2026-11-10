@@ -19,6 +19,10 @@ On a Team or Enterprise plan, an organization owner controls this switch and
 the use of skills. If the switch is missing or gray, see
 [An admin turned skills off](#an-admin-turned-skills-off).
 
+Claude.ai on the web is always the latest version. For chat in the Claude
+desktop app, use the latest version of the app: when it offers an update,
+install it and restart the app.
+
 ## Install
 
 1. Open the [latest release](https://github.com/withACX/ai-tools/releases/latest).
