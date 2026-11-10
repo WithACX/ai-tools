@@ -3,5 +3,19 @@
   "interface": {
     "displayName": "A-CX AI Tools"
   },
-  "plugins": []
+  "plugins": [
+    {
+      "name": "my-voice",
+      "source": {
+        "source": "local",
+        "path": "./plugins/my-voice"
+      },
+      "version": "1.0.0",
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
 }

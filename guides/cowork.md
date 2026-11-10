@@ -11,6 +11,9 @@ chat with the same account.
 2. Turn on code execution, as described in the
    [Claude.ai guide](claude-ai.md#first-turn-on-code-execution).
 
+Use the latest version of the Claude desktop app. When the app offers an
+update, install it and restart the app.
+
 On a Team or Enterprise plan, an organization owner controls which plugin
 sources and skills members can add. When an option below is missing, ask the
 organization owner.

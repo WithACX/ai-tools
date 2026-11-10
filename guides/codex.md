@@ -13,6 +13,10 @@ with Codex in an editor, install it with Codex CLI or the ChatGPT desktop app.
    [Codex CLI](https://learn.chatgpt.com/docs/codex/cli).
 2. Sign in to Codex when it asks.
 
+Use the latest version of Codex CLI and of the ChatGPT desktop app. To update
+Codex CLI, install it again the same way, as OpenAI describes in
+[Codex CLI](https://learn.chatgpt.com/docs/codex/cli).
+
 ## Install
 
 ### Codex CLI

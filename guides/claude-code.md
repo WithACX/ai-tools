@@ -9,6 +9,9 @@ named `a-cx-ai-tools`. Add it once, then install each skill's plugin from it.
    [Set up Claude Code](https://code.claude.com/docs/en/setup).
 2. Start Claude Code in a terminal by typing `claude` and pressing Enter.
 
+Use the latest version of Claude Code. To update an installed Claude Code, type
+`claude update` in a terminal.
+
 ## Install
 
 1. In a Claude Code session, add the marketplace:
